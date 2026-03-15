@@ -1,4 +1,3 @@
-# Clone-Websites
 # Website Clones Collection
 
 This repository contains multiple website clone projects created using **HTML and CSS**.
@@ -42,4 +41,5 @@ These projects were built for **learning and practicing frontend development ski
 
 ## 👨‍💻 Author
 
-Priyank
+Priyank Khatri 
+# CODINGGITA
